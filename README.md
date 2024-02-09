@@ -1,4 +1,4 @@
 # Apps-created
-Garage app was built using React Native and 
+Garage app was built using React Native 
 
-the Point of Sale was built in Java
+The Point of Sale was built in Java
